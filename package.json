@@ -6,7 +6,7 @@
     "unity": "2022.3",
     "repository": {
       "type": "git",
-      "url": "https://github.com/rotorz/unity3d-class-type-reference"
+      "url": "github.com/Born-Studios/unity3d-class-type-reference"
     },
     "author": "Rotorz Limited",
     "license": "MIT",
