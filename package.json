@@ -4,10 +4,6 @@
     "displayName": "Rotorz.Unity3d-Class-Type-Reference",
     "description": "A class which provides serializable references to `System.Type` of classes with an accompanying custom property drawer which allows class selection from drop-down.",
     "unity": "2022.3",
-    "repository": {
-      "type": "git",
-      "url": "github.com/Born-Studios/unity3d-class-type-reference"
-    },
     "author": "Rotorz Limited",
     "license": "MIT",
     "keywords": [
