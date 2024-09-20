@@ -73,7 +73,7 @@ namespace Rotorz.Games.Reflection
         private static void FilterTypes(Assembly assembly, ClassTypeConstraintAttribute filter, ICollection<Type> excludedTypes, List<Type> output)
         {
             foreach (var type in assembly.GetTypes()) {
-                if (!type.IsPublic || !type.IsClass) {
+                if (!type.IsPublic) {
                     continue;
                 }
 
